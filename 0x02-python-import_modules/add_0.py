@@ -9,7 +9,4 @@ def add(a, b):
     Returns:
         The return value. a + b
     """
-    return (a + b)
-
-guillaume@ubuntu:~/0x02$ ./0-add.py
-1 + 2 = 3
+    return (a + b
